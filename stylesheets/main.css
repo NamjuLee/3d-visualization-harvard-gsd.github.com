@@ -25,6 +25,12 @@
 
 #introText{
     color:gray!important;
-    font-weight: 10
+    font-weight: 100
+    
+}
+
+#video{
+    background: lightgray;
+    padding-bottom: 13px
     
 }
