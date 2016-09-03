@@ -139,13 +139,13 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
+/*  border: 1px solid #ebebeb;*/
 
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+/*  box-shadow: 0 0 5px #ebebeb;*/
+/*  -webkit-box-shadow: 0 0 5px #ebebeb;*/
+/*  -moz-box-shadow: 0 0 5px #ebebeb;*/
+/*  -o-box-shadow: 0 0 5px #ebebeb;*/
+/*  -ms-box-shadow: 0 0 5px #ebebeb;*/
 }
 
 p img {
@@ -262,6 +262,7 @@ Full-Width Styles
 
 .outer {
   width: 100%;
+  border: 0px !important;
 }
 
 .inner {
@@ -281,7 +282,7 @@ Full-Width Styles
   color: #fff;
   background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
   font-weight: 700;
-  box-shadow: 0 0 10px rgba(0,0,0,.5);
+/*  box-shadow: 0 0 10px rgba(0,0,0,.5);*/
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
@@ -296,7 +297,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 20px 10px 30px 10px;
 }
 
 #project_title {
